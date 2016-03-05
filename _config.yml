@@ -1,0 +1,28 @@
+name: lovisworld
+favicon: null
+layout_spectrum: 0.9342781994491816
+typography_spectrum: 0.08796330448240042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.40118958707898855
+  lightness: 0.8612527810037136
+  saturation: 0.7665670835413039
+  rhythmicContrast: 0.5140136831905693
+purpose: []
