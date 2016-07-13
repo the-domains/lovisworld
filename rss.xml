@@ -4,8 +4,15 @@
         <description><![CDATA[lovisworld]]></description>
         <link>https://thegrid.ai/lovisworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 09:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 03:01:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lovisworld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc52e049-9108-4b90-ba73-d36926a3aa66.jpg">]]></description>
+            <link>https://thegrid.ai/lovisworld/f139e13d-d9c3-4bad-a307-5860ce9d007b/index.html</link>
+            <guid isPermaLink="false">f139e13d-d9c3-4bad-a307-5860ce9d007b</guid>
+            <pubDate>Wed, 13 Jul 2016 03:00:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07118032-de5b-4ff1-a0e9-fbbafba88772.jpg">]]></description>
@@ -22,17 +29,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b6070de-6432-4b71-83ed-9d5c756b2fb6.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/lovisworld/63aa8fa9-b6a7-4928-8380-63c0521f9b30/index.html</link>
-            <guid isPermaLink="false">63aa8fa9-b6a7-4928-8380-63c0521f9b30</guid>
-            <pubDate>Sat, 05 Mar 2016 20:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80aecaa4-8875-477e-886c-26361c66a94f.jpg">]]></description>
             <link>https://thegrid.ai/lovisworld/0dbffe26-bf19-467b-8b6b-b22ea0d19d5d/index.html</link>
             <guid isPermaLink="false">0dbffe26-bf19-467b-8b6b-b22ea0d19d5d</guid>
             <pubDate>Sat, 05 Mar 2016 20:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b6070de-6432-4b71-83ed-9d5c756b2fb6.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/lovisworld/63aa8fa9-b6a7-4928-8380-63c0521f9b30/index.html</link>
+            <guid isPermaLink="false">63aa8fa9-b6a7-4928-8380-63c0521f9b30</guid>
+            <pubDate>Sat, 05 Mar 2016 20:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
